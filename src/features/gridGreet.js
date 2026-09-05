@@ -3,7 +3,7 @@
 const { register } = require('../registry');
 
 register(
-  'gridGreet',
+  'gridGreetAhahha',
   {
     description: 'Says hello to whoever is passed in.',
     author: 'starter-kit',
